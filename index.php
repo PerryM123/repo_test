@@ -1,5 +1,7 @@
 <?php require_once( './header.php' ); ?>
 
+<!--this is fun stuff here-->
+
 <article>
   <div class="container">
     <h1 class="main-visual">
